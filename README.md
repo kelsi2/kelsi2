@@ -10,8 +10,8 @@ Thank you for coming to visit my portfolio, welcome! 😄
 
 I'm Kelsi, a full stack web developer, open to work!
 
-- 🔭 I'm currently working on building a blog.
-- 🌱 I’m currently learning Ruby and Ruby on Rails.
+- 🔭 I'm currently working with BCCH Digital Lab on some very cool projects!
+- 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me: 
   - [@KelsiDev on Twitter](https://twitter.com/KelsiDev)
   - [Connect with me on LinkedIn](https://www.linkedin.com/in/kelsi-dev/)
