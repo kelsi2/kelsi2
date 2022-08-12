@@ -13,6 +13,7 @@ I'm Kelsi, a full stack web developer, open to work!
 - 🔭 I'm currently working with BCCH Digital Lab on some very cool projects!
 - 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me: 
+  - [Check out my portfolio](https://kelsidev.tech)
   - [@KelsiDev on Twitter](https://twitter.com/KelsiDev)
   - [Connect with me on LinkedIn](https://www.linkedin.com/in/kelsi-dev/)
   - [Shoot me an email!](mailto:kproulxdev@gmail.com)
